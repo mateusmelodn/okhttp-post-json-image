@@ -41,6 +41,4 @@ An example in order to perform post request using okhttp to send json alongside 
             }
         }
         
-        
-Implement on your gradle file
         implementation 'com.squareup.okhttp3:okhttp:4.3.1'
